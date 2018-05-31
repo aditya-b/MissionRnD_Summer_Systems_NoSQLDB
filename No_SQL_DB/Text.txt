@@ -1,0 +1,3 @@
+102 name:aditya age:19
+103 name:krishna age:19 city:hyd
+102 name:aditya age:20 city:hyd

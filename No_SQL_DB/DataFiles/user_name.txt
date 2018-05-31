@@ -1,0 +1,3 @@
+102 satya 2
+102 aditya 1
+103 krishna 1
